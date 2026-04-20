@@ -1,6 +1,6 @@
 # 小红书笔记写作公式
 
-> 基于小红书官方企业用户秘籍整理的笔记写作 Skill for OpenClaw/Melt 🫠
+> 基于小红书官方企业用户秘籍整理的笔记写作 Skill for OpenClaw/龙虾 🫠
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
@@ -33,17 +33,17 @@
 git clone https://github.com/v0id-byte/xiaohongshu-writer.git ~/你的skills路径/xiaohongshu-writer
 
 # 方法二：在 OpenClaw 中直接引用
-# 当需要写小红书笔记时，直接对 Melt 说：
+# 当需要写小红书笔记时，直接对 龙虾 说：
 # "帮我写一篇小红书笔记，关于[产品/主题]，目标是[目标人群]"
 ```
 
 ### 2. 开始写笔记
 
-当需要写笔记时，直接告诉 Melt：
+当需要写笔记时，直接告诉 龙虾：
 
 > "帮我写一篇小红书笔记，关于[产品/品牌/主题]"
 
-Melt 会按照官方秘籍公式自动完成：
+龙虾 会按照官方秘籍公式自动完成：
 1. 确定笔记类型（品牌/达人/KOS/UGC）
 2. 选题（4问选题法）
 3. 设计封面（7大元素 + 3:4格式）
