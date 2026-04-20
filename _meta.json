@@ -1,0 +1,13 @@
+{
+  "name": "xiaohongshu-writer",
+  "description": "小红书笔记写作公式 — 官方企业版秘籍。包含选题定位、爆款标题、笔记结构、关键词布局、封面设计、评论区运营等完整公式。当用户需要写小红书笔记、种草内容、产品推广文案时激活。",
+  "version": "1.0",
+  "author": "官方企业秘籍",
+  "trigger_keywords": ["小红书", "写笔记", "种草", "小红书推广", "爆款标题", "笔记写作", "小红书文案", "写小红书"],
+  "apply_to": ["content-generation", "copywriting", "social-media", "marketing"],
+  "files": [
+    "SKILL.md",
+    "examples/prompt-template.md"
+  ],
+  "notes": "基于小红书官方企业用户秘籍整理，包含官方认证的写作公式和平台规则。"
+}
